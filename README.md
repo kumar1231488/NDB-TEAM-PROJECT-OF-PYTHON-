@@ -1,2 +1,2 @@
 # NDB-TEAM-PROJECT-OF-PYTHON-
-NIKHI KUMAR ,dhawani ,basag
+NIKHI KUMAR, Dhawni,Beshaj 
